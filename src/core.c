@@ -1,10 +1,3 @@
-/*
-** ETNA PROJECT, 06/11/2020 by dogota_n and avenia_r
-** AbstractVM
-** File description:
-**      core.c : kernel of the project, where the syntax processing is interacting with the stack
-*/
-
 #include "../include/core.h"
 
 // initializing the stack with an empty plate
