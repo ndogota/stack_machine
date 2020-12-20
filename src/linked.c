@@ -1,10 +1,3 @@
-/*
-** ETNA PROJECT, 06/11/2020 by dogota_n and avenia_r
-** AbstractVM
-** File description:
-**      linked.c : stack functions
-*/
-
 #include "../include/tools.h"
 #include "../include/linked.h"
 
